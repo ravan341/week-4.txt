@@ -33,5 +33,6 @@ Learning the basics of **Jenkins** with the help of flask library, we created a 
 8) Clicked build now
 
 #### Output
-  ![image](https://github.com/user-attachments/assets/1d0b3cc9-cd9d-4627-afba-9d6c21c747fc)
+  
+![b7c5a14e-6aa7-4f5b-9629-76d5b9cb0966](https://github.com/user-attachments/assets/27203f44-7fa9-4e71-8066-b85d31916d9f)
 
